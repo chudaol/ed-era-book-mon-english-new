@@ -1,7 +1,7 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Мовленнєва компетенція
-## На кінець 4-го класу
+# Мовленнєва компетентність учнів на кінець 4-го класу
+
 
 <p><b>Зміст розділу:</b></p>
    * [Аудіювання](audiyuvannya.md)

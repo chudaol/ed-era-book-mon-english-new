@@ -1,7 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Мовленнєва компетенція
-## На кінець 1-го класу
+# Мовленнєва компетентність учнів на кінець 1-го класу
 
 <p><b>Зміст розділу:</b></p>
    * [Аудіювання](audiyuvannya.md)

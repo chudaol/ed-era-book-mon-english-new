@@ -13,66 +13,78 @@
     <td width="10%" style="vertical-align:top !important;">
 <b>Особистісна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Я, моя сім'я і друзі.<br>
-Відпочинок і дозвілля.<br>
-Людина.<br></td>
+Я, моя сім'я і друзі <br>
+Відпочинок і дозвілля  (Поїздка на канікулах)<br>
+Людина<br>
+Помешкання (На кухні)<br>
+Природа і навколишнє середовище (Пори року)</td>
     <td width="40%" style="vertical-align:top !important;" rowspan="3">
-<ul type="disc">
-<li>Представляти співрозмовників/третіх осіб;</li>
-<li>запрошувати інформацію про співрозмовника/третю особу;</li>
-<li>описувати когось/щось;</li>
-<li>запитувати про відчуття/самопочуття та відповідати на запитання;</li>
-<li>повідомляти про смаки, уподобання;</li>
-<li>виражати своє ставлення до когось/чогось;</li>
-<li>запрошувати та реагувати на чиєсь запрошення;</li>
-<li>робити пропозицію та реагувати на неї;</li>
-<li>запитувати з метою отримання більш детальної інформації;</li>
-<li>визначати час;</li>
-<li>висловлювати схвальну/несхвальну оцінку предметам, діям, ситуаціям тощо.</li>
-</ul>
+- представляти співрозмовників / третіх осіб;<br>
+- запрошувати інформацію про співрозмовника / третю особу;<br>
+- описувати когось / щось;<br>
+- запитувати про відчуття/самопочуття  та відповідати на запитання;<br>
+- повідомляти про смаки, уподобання; <br>
+- виражати своє ставлення до когось / чогось;<br>
+- запрошувати та реагувати на чиєсь запрошення;<br>
+- робити пропозицію та реагувати на неї; <br>
+- запитувати з метою отримання більш детальної інформації;<br>
+- визначати час;<br>
+- висловлювати схвальну / несхвальну оцінку предметам, діям, ситуаціям тощо;<br>
+- виражати настрій
 </td>
     <td width="60%" style="vertical-align:top !important;" rowspan="3">
-His/Her name is …<br>
-They are …<br>
-Where are you from?<br>
+His / Her name is …<br>
+They are…<br>
+Who is this boy/girl?<br>
+What is his/her name?<br>
+How old are you?<br>
+How old is he/she? <br>
+Where is he/she from?<br>
 Where do you live?<br>
-Are you from …? Is he from…?<br>
+I live at … Street?<br>
+What is his/her address?<br>
+Are you from…? Is she/he from…?<br>
 How are you? I am fine, thank you. <br>
-Have you got …?<br>
-I like … I don’t like.<br>
-He likes/doesn’t like it.<br>
-Can you come to …? — Yes, sure.<br>
-Sorry, I can’t.<br>
-I am (doing) it now.<br>
-Can you help me? Сan I have ...?<br>
-Thanks.<br>
-Let’s go to… <br>
+Have you got…?<br>
+I like… I don’t like ….<br>
+She/He likes/doesn’t like it. <br>
+Can you come to …? - Yes, sure.<br>
+Sorry, I can’t.   <br>
+Can you help me? Сan I have...? Thanks.<br>
+Where did you go?<br>
+Did you like it?<br>
+Yes, I did. / No, I didn’t.<br>
 It’s five o’clock.<br>
 It’s five twenty.<br>
-In the morning/afternoon/evening.<br>
+In the morning/afternoon/evening<br>
+In (September, …)<br>
+On (Monday, …)<br>
+At (5 o’clock, …)<br>
+How much? How many? <br>
+Thank you very much.<br>
+Tea or juice?<br>
 </td>
   </tr>
 <tr>
     <td width="10%" style="vertical-align:top !important;">
 <b>Публічна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Природа і навколишнє середовище. <br>
-Свята та традиції.<br></td>
+Свята та традиції<br></td>
 </tr>
 <tr>
     <td width="10%" style="vertical-align:top !important;">
 <b>Освітня</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Школа.</td>
+Школа</td>
 </tr>
 </table>
 
 <hr>
 <p><b>Зміст розділу:</b></p>
-   * [Лінгвістична компетенція](lyngvystykhna_kompetenzia.md)
-   * [Соціокультурна компетенція](soziokulturna_kompetenzia.md)
-   * [Загальнонавчальна компетенція](zagalnonavchalna_kompetenzya.md)
-   * [Мовленнєва компетенція](na_kynec_3_klasu_uchny_povunny_vmyty.md)
+   * [Лінгвістична компетентність](lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетентність](soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетентність](zagalnonavchalna_kompetenzya.md)
+   * [Мовленнєва компетентність учнів](na_kynec_3_klasu_uchny_povunny_vmyty.md)
        * [Аудіювання](audiyuvannya.md)
        * [Говоріння](govorinnya.md)
        * [Читання](chitannya.md)

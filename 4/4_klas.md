@@ -13,42 +13,47 @@
     <td width="10%" style="vertical-align:top !important;">
 <b>Особистісна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Я, моя сім’я і друзі (місцепроживання). <br>
-Помешкання.<br>
-Відпочинок і дозвілля.<br></td>
+Я, моя сім’я і друзі (Місцепроживання)<br>
+Помешкання<br>
+Відпочинок і дозвілля<br>
+Природа і навколишнє середовище</td>
     <td width="40%" style="vertical-align:top !important;" rowspan="3">
-<ul type="disc">
-<li>Запрошувати та надавати інформацію про особи/об’єкти/явища/події/факти;</li>
-<li>описувати осіб/місця/об’єкти/явища/події/факти;</li>
-<li>характеризувати та оцінювати когось/щось;</li>
-<li>розповідати про прочитане, почуте, побачене;</li>
-<li>запитувати про чиїсь враження, думки, ставлення;</li>
-<li>висловлювати свої враження, думки, ставлення.</li>
-</ul>
+- запрошувати та надавати інформацію про особи / об’єкти / явища / події / факти;<br>
+- описувати особи / місця / об’єкти / явища / події / факти;<br>
+- характеризувати та оцінювати когось / щось;<br>
+- розповідати про прочитане, почуте, побачене;<br>
+- запитувати про чиїсь враження, думки, ставлення;<br>
+- висловлювати свої враження, думки, ставлення; <br>
+- виражати настрій.
 </td>
     <td width="60%" style="vertical-align:top !important;" rowspan="3">
 Where do you live?<br>
 I live in …<br>
-What is your address?<br>
-My address is …<br>
+What is your address? My address is …<br>
 When did you go there?<br>
-It is/was interesting.<br>
-He is taller than …<br>
-She is the youngest in the family.<br>
+Can you show me that…?<br>
+It is / was interesting.<br>
+He/She is taller than…<br>
+He/She is the youngest in the family.<br>
 You are lucky!<br>
-Did you like it?<br>
-Yes, I did./No, I didn’t.<br>
-You/Тhey are going to …<br>
-Are they/you going to …?<br>
+These are…/Those are…<br>
+I’m (doing)  it now.<br>
+Ok. I will help you. <br>
+I’ll do it tomorrow. – OK.<br>
+…because I like it.<br>
+What…?<br>
+When…?<br>
+Where…?<br>
+Why…?<br>
+How…?
 </td>
   </tr>
 <tr>
     <td width="10%" style="vertical-align:top !important;">
 <b>Публічна</b></td>
     <td width="10%" style="vertical-align:top !important;">
-Природа і навколишнє середовище. <br>
-Подорож.<br>
-Свята і традиції.<br></td>
+Подорож<br>
+Свята і традиції (Святкування в кафе)</td>
 </tr>
 <tr>
     <td width="10%" style="vertical-align:top !important;">
@@ -60,10 +65,10 @@ Are they/you going to …?<br>
 
 <hr>
 <p><b>Зміст розділу:</b></p>
-   * [Лінгвістична компетенція](lyngvystykhna_kompetenzia.md)
-   * [Соціокультурна компетенція](soziokulturna_kompetenzia.md)
-   * [Загальнонавчальна компетенція](zagalnonavchalna_kompetenzya.md)
-   * [Мовленнєва компетенція](na_kynec_4_klasu_uchny_povunny_vmyty.md)
+   * [Лінгвістична компетентність](lyngvystykhna_kompetenzia.md)
+   * [Соціокультурна компетентність](soziokulturna_kompetenzia.md)
+   * [Загальнонавчальна компетентність](zagalnonavchalna_kompetenzya.md)
+   * [Мовленнєва компетентність учнів](na_kynec_4_klasu_uchny_povunny_vmyty.md)
        * [Аудіювання](audiyuvannya.md)
        * [Говоріння](govorinnya.md)
        * [Читання](chitannya.md)
